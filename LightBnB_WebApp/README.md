@@ -33,7 +33,7 @@ psql lightbnb
 - navigate to localhost:3030 in browser
 
 ## Entity Relationship Diagram
-[created with https://dbdiagram.io/](https://github.com/Yebbenbe/LightBnB/blob/master/images/ERD.png)
+![created with https://dbdiagram.io/](https://github.com/Yebbenbe/LightBnB/blob/master/images/ERD.png)
 
 
 ## Project Structure
