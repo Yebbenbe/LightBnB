@@ -1,7 +1,7 @@
 # LightBnB
 
 ## Description
-A simple AirBnB clone that uses server-side Javascript to make SQL queries and display the results via web pages.
+A simple AirBnB clone that uses server-side Javascript to make SQL queries and display the results via web pages. 
 
 ## Dependencies
 bcrypt
@@ -9,9 +9,6 @@ cookie-session
 express
 nodemon
 pg
-
-## Creating DB manually 
-
 
 ## Usage
 Clone repository. WebApp is within ./LightBnB/LightBnB_WebApp

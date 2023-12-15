@@ -10,8 +10,6 @@ express
 nodemon
 pg
 
-## Creating DB manually 
-
 
 ## Usage
 Clone repository. WebApp is within ./LightBnB/LightBnB_WebApp
