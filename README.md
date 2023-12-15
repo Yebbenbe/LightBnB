@@ -18,7 +18,7 @@ Clone repository. WebApp is within ./LightBnB/LightBnB_WebApp
 ```BASH 
 start postgres  
 CREATE DATABASE lightbnb
-psql lightbnb 
+psql lightbnb (labber:labber)
 \i migrations/01_schema.sql
 \i seeds/01_seeds.sql
 \i seeds/02_seeds.sql
