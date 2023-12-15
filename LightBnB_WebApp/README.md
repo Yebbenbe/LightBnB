@@ -1,5 +1,25 @@
 # LightBnB
 
+## Description
+A simple AirBnB clone that uses server-side Javascript to make SQL queries and display the results via web pages.
+
+## Dependencies
+bcrypt
+cookie-session
+express
+nodemon
+pg
+
+## Usage
+- Clone
+- npm install
+- npm run local to start the server
+- navigate to localhost:3030
+
+## Entity Relationship Diagram
+[created with https://dbdiagram.io/](https://github.com/Yebbenbe/LightBnB/blob/master/images/ERD.png)
+
+
 ## Project Structure
 
 ```
