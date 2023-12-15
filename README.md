@@ -4,11 +4,11 @@
 A simple AirBnB clone that uses server-side Javascript to make SQL queries and display the results via web pages.
 
 ## Dependencies
-bcrypt
-cookie-session
-express
-nodemon
-pg
+- bcrypt
+- cookie-session
+- express
+- nodemon
+- pg
 
 
 ## Usage
